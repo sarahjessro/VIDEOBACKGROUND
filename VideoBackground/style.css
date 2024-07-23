@@ -1,0 +1,39 @@
+.title {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-size: 80px;
+    padding-top: 90px;
+    color:white
+}
+
+.title-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.pause {
+    width: 200px ;
+    height: 55px;
+    background-color: black;
+    border-style: none;
+    color: white;
+    font-family:"Poppins", sans-serif;
+    font-size: 20px;
+}
+
+.button {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: center;
+}
